@@ -87,7 +87,7 @@ nav a:hover, nav a:focus{
 }
 
 .result:hover{
-	transform: rotate(10deg);
+	transform: rotate(0deg);
 }
 
 .result a:link, .result a:visited{
@@ -104,11 +104,11 @@ nav a:hover, nav a:focus{
 }
 
 .column1 .result:nth-child(odd):hover, .column2 .result:nth-child(even):hover, .column3 .result:nth-child(odd):hover{
-	transform: rotate(2deg);
+	transform: rotate(0);
 }
 
 .column1 .result:nth-child(even):hover, .column2 .result:nth-child(odd):hover, .column3 .result:nth-child(even):hover{
-	transform: rotate(-2deg);
+	transform: rotate(0);
 }
 
 .result{
