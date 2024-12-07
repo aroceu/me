@@ -118,6 +118,26 @@ nav a:hover, nav a:focus{
 
 }
 
+.left {
+	transform: rotate(-35deg);
+	top: 0;
+  left: -30px;
+}
+
+.right{
+	transform: rotate(35deg);
+	top: 0;
+  right: -30px;
+}
+
+.tape {
+	background-color: #ddd;
+  width: 110px;
+  height: 35px;
+  position: absolute;
+  opacity: 0.6;
+}
+
 
 @media (max-width: 600px) {
   .column1, .column2, .column3 {
@@ -142,6 +162,8 @@ nav a:hover, nav a:focus{
 
   	<div id="blurb" class="result">
 
+  		<div class="tape left"></div>
+
 <h1>Me, I guess</h1>
 
 <p>I'm a notorious personality quiz taker, but my results are usually redundant since I tend to be consistent. This is a collage of my more interesting results that I think apply to me pretty well still. If you're interested in taking the quiz yourself, click on the image. </p>
@@ -153,6 +175,7 @@ nav a:hover, nav a:focus{
 </div>
   	
 	<div class="result">
+		<div class="tape right"></div>
     <a href="https://f4t4l.rip/spookyquiz">
       <img src="ghost.PNG" width="100%">
       <p>You are a ghost! You’re timid and cautious, and tend to keep to yourself. Your friends appreciate your introspective nature.</p>
@@ -184,6 +207,8 @@ nav a:hover, nav a:focus{
 		</a>
 	</div>
 	<div class="result">
+			<div class="tape left"></div>
+
 	<a href="https://uquiz.com/quiz/mxnx5b/which-aesthetic™-colour-are-you?p=353432">
 			<img src="cobalt.png" width="100%">
 		</a>
@@ -194,11 +219,13 @@ nav a:hover, nav a:focus{
    
   <div class="column3">
   	<div class="result">
+  			<div class="tape right"></div>
 	    <a href="https://uquiz.com/quiz/Ej0LrR?p=3099686">
 	      <img src="enemies.jpg" width="100%">
 	    </a>
 	</div>
 	<div class="result">
+			<div class="tape left"></div>
     <a href="https://uquiz.com/quiz/E5QPn1/whos-your-pok%C3%A9mon-partner-250-possibilities?p=1129880">
 			<img src="alopix.jpg" width="100%">
 		</a>
