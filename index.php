@@ -128,6 +128,10 @@ nav a:hover, nav a:focus{
   .column2 .result:first-child, .column3 .result:first-child{
   	margin-top: 0;
   }
+
+  .column2, .column3{
+  	padding: 0 20px;
+  }
 }
 </style>
 </head>
