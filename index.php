@@ -78,7 +78,7 @@ nav a:hover, nav a:focus{
 
 .result{
 	  margin: 40px 0;
-	box-shadow: 0.2em 0.2em 0 #333;
+	box-shadow: 0.2em 0.2em 0 #ccc;
 }
 
 .result p{
