@@ -124,6 +124,10 @@ nav a:hover, nav a:focus{
     flex: 100%;
     max-width: 100%;
   }
+
+  .column2 .result:first-child, .column3 .result:first-child{
+  	margin-top: 0;
+  }
 }
 </style>
 </head>
