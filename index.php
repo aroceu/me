@@ -221,9 +221,15 @@ nav a:hover, nav a:focus{
 	</div>
 
 	<div class="result">
+	<a href="https://www.arealme.com/what-chemical-element-are-you/en/">
+		<div class="tape right"></div>
+			<img src="silicon.png" width="100%" alt="According to the periodic table, you are Silicon (Si, 14, 28.085). Wherever you are, you're the pillar of the group and you handle matters maturely. You're just like silicon. Time of discovery: 1823. Type: Metalloids. Discovery process: Silicon was discovered in 1824 by Swedish chemist Jons Berzelius, who heated chips of potassium in a silica container and then carefully washed away the residual by-products. Detailed description: Silicon is a chemical element with symbol Si and atomic number 14. A hard and brittle crystalline solid with a blue-gray metallic luster, it is a tetravalent metalloid. It is a member of group 14 in the periodic table, along with carbon above it and germanium, tin, lead, and flerovium below. It is rather unreactive, though less so than germanium, and has great chemical affinity for oxygen.">
+		</a>
+	</div>
 
+	<div class="result">
 	<a href="https://web.archive.org/web/20110201021220/http://semeuke.com/quiz.php">
-			<img src="chibiseme.png" width="100%" alt="Chibi Seme">
+			<img src="chibiseme.png" width="100%" alt="You are a Chibi Seme. You are the seme in disguise. Able to fit in and get along with uke and seme alike, you are able to get close to the uke on their level before exerting your dominance. This makes you at times manipulative and able to fool others about your true seme nature. Because of your harmless appearance, it takes the flamboyant Flaming Uke to match wits and really bring out your aggressive side to expose you for the seme that you are.">
 		</a>
 	</div>
 		
@@ -251,12 +257,6 @@ nav a:hover, nav a:focus{
 	<div class="result">
 	<a href="https://andou.gay/quiz/donutquiz">
 			<img src="glazed donut.png" width="100%" alt="Glazed Donut. Even though you may be a bit shy, people really do enjoy being around you. Although you are very introverted, others open up to you easily. People trust you because you are a very good listener!">
-		</a>
-	</div>
-	<div class="result">
-	<a href="https://www.arealme.com/what-chemical-element-are-you/en/">
-		<div class="tape right"></div>
-			<img src="silicon.png" width="100%" alt="According to the periodic table, you are Silicon (Si, 14, 28.085). Wherever you are, you're the pillar of the group and you handle matters maturely. You're just like silicon. Time of discovery: 1823. Type: Metalloids. Discovery process: Silicon was discovered in 1824 by Swedish chemist Jons Berzelius, who heated chips of potassium in a silica container and then carefully washed away the residual by-products. Detailed description: Silicon is a chemical element with symbol Si and atomic number 14. A hard and brittle crystalline solid with a blue-gray metallic luster, it is a tetravalent metalloid. It is a member of group 14 in the periodic table, along with carbon above it and germanium, tin, lead, and flerovium below. It is rather unreactive, though less so than germanium, and has great chemical affinity for oxygen.">
 		</a>
 	</div>
 
