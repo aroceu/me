@@ -191,13 +191,11 @@ nav a:hover, nav a:focus{
       <img src="fixit.png" width="100%" alt="Your result: Fix-it. You don't have time for this 'making your barbies kiss' bullshit: the world is fucked, and you're here to do something about it! (the thing you're doing about it is making your barbies kiss)">
     </a>
     </div>
-
-   <div class="result">
-    <a href="https://www.buzzfeed.com/smq/taylor-swift-eras-quiz">
-      <img src="rep.png" width="100%" alt="Which Taylor Swift era are you? Reputation Era. ...Ready For it? You got Reputation as your era, which means you have a tough exterior, but you're actually soft and sensitive on the inside. You don't take BS from anyone. You're introverted, and you have a very small circle of people you trust. But once they're in your circle, they're IN, and you'll be loyal to them for life.">
-    </a>
-    </div>
-
+ 	<div class="result">
+ 	<a href="https://www.gotoquiz.com/what_is_your_animal_crossing_personality_answ">
+ 			<img src="acnhpersonality.png" width="100%" alt="What is your Animal Crossing personality? Lazy at 44%. Hence being called lazy, these villagers like to relax and sleep. They find little to no interest in sports, which is why jock villagers will not like their lazy lifestyle. They also love food. They are very kind and caring, despite being lazy. Examples of lazy villagers are Rodeo, Punchy, Jacob, and Egbert. Other results are Normal at 40%, and Uchi, Smug, Jock, Snooty, and Cranky all at 22%. Peppy is at 0%.">
+ 		</a>
+ 	</div>
 	
   </div>
   
@@ -207,23 +205,25 @@ nav a:hover, nav a:focus{
 			<img src="friga.jpg" width="100%" alt="You are Friga, the snooty Penguin villager, brrrmph!">
 		</a>
 	</div>
-	<div class="result">
-	<a href="https://www.gotoquiz.com/what_is_your_animal_crossing_personality_answ">
-			<img src="acnhpersonality.png" width="100%" alt="What is your Animal Crossing personality? Lazy at 44%. Hence being called lazy, these villagers like to relax and sleep. They find little to no interest in sports, which is why jock villagers will not like their lazy lifestyle. They also love food. They are very kind and caring, despite being lazy. Examples of lazy villagers are Rodeo, Punchy, Jacob, and Egbert. Other results are Normal at 40%, and Uchi, Smug, Jock, Snooty, and Cranky all at 22%. Peppy is at 0%.">
-		</a>
-	</div>
-	<div class="result">
-			<div class="tape left"></div>
-
-	<a href="https://uquiz.com/quiz/mxnx5b/which-aesthetic™-colour-are-you?p=353432">
-			<img src="cobalt.png" width="100%" alt="Your result: cobalt blue. Nothing feels better to you than making something new from nothing. It would take rope, some tape, and quite possibly a triple-locked door to keep you from your creative pursuits. You are expressive and unique, and refuse to be boxed in. Some are put off or left behind by your passion for the things that matter to you. Occasionally, you would do well to slow down and ground yourself in the present. Check in with others, take a break, and let yourself worry less about that lofty goal of yours.">
-		</a>
-	</div>
 
 	<div class="result">
 	<a href="https://www.arealme.com/what-chemical-element-are-you/en/">
 		<div class="tape right"></div>
 			<img src="silicon.png" width="100%" alt="According to the periodic table, you are Silicon (Si, 14, 28.085). Wherever you are, you're the pillar of the group and you handle matters maturely. You're just like silicon. Time of discovery: 1823. Type: Metalloids. Discovery process: Silicon was discovered in 1824 by Swedish chemist Jons Berzelius, who heated chips of potassium in a silica container and then carefully washed away the residual by-products. Detailed description: Silicon is a chemical element with symbol Si and atomic number 14. A hard and brittle crystalline solid with a blue-gray metallic luster, it is a tetravalent metalloid. It is a member of group 14 in the periodic table, along with carbon above it and germanium, tin, lead, and flerovium below. It is rather unreactive, though less so than germanium, and has great chemical affinity for oxygen.">
+		</a>
+	</div>
+
+	<div class="result">
+    <a href="https://www.buzzfeed.com/smq/taylor-swift-eras-quiz">
+      <img src="rep.png" width="100%" alt="Which Taylor Swift era are you? Reputation Era. ...Ready For it? You got Reputation as your era, which means you have a tough exterior, but you're actually soft and sensitive on the inside. You don't take BS from anyone. You're introverted, and you have a very small circle of people you trust. But once they're in your circle, they're IN, and you'll be loyal to them for life.">
+    </a>
+    </div>
+
+	
+	<div class="result">
+			<div class="tape left"></div>
+	<a href="https://uquiz.com/quiz/mxnx5b/which-aesthetic™-colour-are-you?p=353432">
+			<img src="cobalt.png" width="100%" alt="Your result: cobalt blue. Nothing feels better to you than making something new from nothing. It would take rope, some tape, and quite possibly a triple-locked door to keep you from your creative pursuits. You are expressive and unique, and refuse to be boxed in. Some are put off or left behind by your passion for the things that matter to you. Occasionally, you would do well to slow down and ground yourself in the present. Check in with others, take a break, and let yourself worry less about that lofty goal of yours.">
 		</a>
 	</div>
 
