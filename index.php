@@ -166,7 +166,7 @@ nav a:hover, nav a:focus{
 
 <h1>Me, I guess</h1>
 
-<p>I'm a notorious personality quiz taker, but my results are usually redundant since I tend to be consistent. This is a collage of my more interesting results that I think apply to me pretty well still. If you're interested in taking the quiz yourself, click on the image. </p>
+<p>I'm a notorious personality quiz taker, but my results are usually redundant since I tend to be consistent. This is a collage of my more interesting results that I think apply to me pretty well still. If you're interested in taking the quiz yourself, click on the result. </p>
 
 <nav>
 	<a href="https://aroceu.com">home</a>
@@ -177,18 +177,24 @@ nav a:hover, nav a:focus{
 	<div class="result">
 		<div class="tape right"></div>
     <a href="https://f4t4l.rip/spookyquiz">
-      <img src="ghost.PNG" width="100%">
+      <img src="ghost.PNG" width="100%" alt="Drawing of a blue ghost">
       <p>You are a ghost! You’re timid and cautious, and tend to keep to yourself. Your friends appreciate your introspective nature.</p>
     </a>
     </div>
     <div class="result">
       <a href="https://cupped-expressions.net/cheese/quiz/">
-      <img src="chevres03.gif" width="100%">
+      <img src="chevres03.gif" width="100%" alt="I am chevres: I am a cheese of different shapes, sizes, and textures. I am dependable, generous, and modest. I want to please everyone, but sometimes I have trouble remembering myself.">
     </a>
 	</div>
 	<div class="result">
     <a href="https://uquiz.com/quiz/vNQPkn/which-ao3-tag-are-you">
-      <img src="fixit.png" width="100%">
+      <img src="fixit.png" width="100%" alt="Your result: Fix-it. You don't have time for this 'making your barbies kiss' bullshit: the world is fucked, and you're here to do something about it! (the thing you're doing about it is making your barbies kiss)">
+    </a>
+    </div>
+
+   <div class="result">
+    <a href="https://www.buzzfeed.com/smq/taylor-swift-eras-quiz">
+      <img src="rep.png" width="100%" alt="Which Taylor Swift era are you? Reputation Era. ...Ready For it? You got Reputation as your era, which means you have a tough exterior, but you're actually soft and sensitive on the inside. You don't take BS from anyone. You're introverted, and you have a very small circle of people you trust. But once they're in your circle, they're IN, and you'll be loyal to them for life.">
     </a>
     </div>
 
@@ -198,19 +204,26 @@ nav a:hover, nav a:focus{
   <div class="column2">
   	<div class="result">
     <a href="https://dog-house.neocities.org/quiz/ac/villager_quiz">
-			<img src="friga.jpg" width="100%">
+			<img src="friga.jpg" width="100%" alt="You are Friga, the snooty Penguin villager, brrrmph!">
 		</a>
 	</div>
 	<div class="result">
 	<a href="https://www.gotoquiz.com/what_is_your_animal_crossing_personality_answ">
-			<img src="acnhpersonality.png" width="100%">
+			<img src="acnhpersonality.png" width="100%" alt="What is your Animal Crossing personality? Lazy at 44%. Hence being called lazy, these villagers like to relax and sleep. They find little to no interest in sports, which is why jock villagers will not like their lazy lifestyle. They also love food. They are very kind and caring, despite being lazy. Examples of lazy villagers are Rodeo, Punchy, Jacob, and Egbert. Other results are Normal at 40%, and Uchi, Smug, Jock, Snooty, and Cranky all at 22%. Peppy is at 0%.">
 		</a>
 	</div>
 	<div class="result">
 			<div class="tape left"></div>
 
 	<a href="https://uquiz.com/quiz/mxnx5b/which-aesthetic™-colour-are-you?p=353432">
-			<img src="cobalt.png" width="100%">
+			<img src="cobalt.png" width="100%" alt="Your result: cobalt blue. Nothing feels better to you than making something new from nothing. It would take rope, some tape, and quite possibly a triple-locked door to keep you from your creative pursuits. You are expressive and unique, and refuse to be boxed in. Some are put off or left behind by your passion for the things that matter to you. Occasionally, you would do well to slow down and ground yourself in the present. Check in with others, take a break, and let yourself worry less about that lofty goal of yours.">
+		</a>
+	</div>
+
+	<div class="result">
+
+	<a href="https://web.archive.org/web/20110201021220/http://semeuke.com/quiz.php">
+			<img src="chibiseme.png" width="100%" alt="Chibi Seme">
 		</a>
 	</div>
 		
@@ -221,23 +234,41 @@ nav a:hover, nav a:focus{
   	<div class="result">
   			<div class="tape right"></div>
 	    <a href="https://uquiz.com/quiz/Ej0LrR?p=3099686">
-	      <img src="enemies.jpg" width="100%">
+	      <img src="enemies.jpg" width="100%" alt="Your result: enemies to lovers who are perfect for each other. you're so horny i cna't even make a joke out of it.">
 	    </a>
 	</div>
 	<div class="result">
 			<div class="tape left"></div>
     <a href="https://uquiz.com/quiz/E5QPn1/whos-your-pok%C3%A9mon-partner-250-possibilities?p=1129880">
-			<img src="alopix.jpg" width="100%">
+			<img src="alopix.jpg" width="100%" alt="Your result: Alolan Vulpix. Well, would you look at that! It seems an Alolan Vulpix wants to be your partner! Alolan Vulpix, also called the Fox Pokemon, has incredibly cold breath that they use to freeze their prey. Like most ice Pokemon, alolan vulpix are drawn to people who are quiet and logical, though they are also known to be exceptionally resilient but shy pokemon. They make the perfect partner for trainers who are withdrawn and determined, though can be so guarded that they primarily live inside their head. My friends, this marks the beginning of your and Vulpix's journey together. Welcome to the world of Pokemon!">
 		</a>
 	</div>
 	<div class="result">
 	<a href="https://quizini.com/quiz/657afbc43bbdc856fd83b639_what-colour-is-your-soul">
-			<img src="mauve.png" width="100%">
+			<img src="mauve.png" width="100%" alt="Mauve. Dusk tinted skies. Love poetry. Intricate lockets. Your soul is mauve: a blend of refined elegance, introspection, and quiet creativity. You move thorugh life with a gentle grace and thoughtful presence, reminiscent of the soft, serene transition between day and night. Your spirit is both poetic and perceptive, finding beauty in the subtle nuances and the deeper meanings that lie beneath the surface. In your presence, there's a feeling of calm introspection and a delicate, inspiring charm, like a treasured old book or a piece of fine, handcrafted art. You embody a quiet strength and a deep sense of empathy, connecting with others through shared experiences and heartfelt understanding. Your approach to life is both artistic and contemplative, encouraging those around you to appreciate the understated beauties of the world and the rich tapestry of human emotion.">
 		</a>
 	</div>
 	<div class="result">
 	<a href="https://andou.gay/quiz/donutquiz">
-			<img src="glazed donut.png" width="100%">
+			<img src="glazed donut.png" width="100%" alt="Glazed Donut. Even though you may be a bit shy, people really do enjoy being around you. Although you are very introverted, others open up to you easily. People trust you because you are a very good listener!">
+		</a>
+	</div>
+	<div class="result">
+	<a href="https://www.arealme.com/what-chemical-element-are-you/en/">
+		<div class="tape right"></div>
+			<img src="silicon.png" width="100%" alt="According to the periodic table, you are Silicon (Si, 14, 28.085). Wherever you are, you're the pillar of the group and you handle matters maturely. You're just like silicon. Time of discovery: 1823. Type: Metalloids. Discovery process: Silicon was discovered in 1824 by Swedish chemist Jons Berzelius, who heated chips of potassium in a silica container and then carefully washed away the residual by-products. Detailed description: Silicon is a chemical element with symbol Si and atomic number 14. A hard and brittle crystalline solid with a blue-gray metallic luster, it is a tetravalent metalloid. It is a member of group 14 in the periodic table, along with carbon above it and germanium, tin, lead, and flerovium below. It is rather unreactive, though less so than germanium, and has great chemical affinity for oxygen.">
+		</a>
+	</div>
+
+	<div class="result">
+	<a href="https://www.arealme.com/what-type-of-boyfriend-are-you/en/">
+			<img src="wolfbf.png" width="100%" alt="Wolf Boyfriend">
+		</a>
+	</div>
+
+	<div class="result">
+	<a href="https://www.arealme.com/what-type-of-girlfriend-are-you/en/">
+			<img src="cranegf.png" width="100%" alt="Crane Girlfriend">
 		</a>
 	</div>
 		
