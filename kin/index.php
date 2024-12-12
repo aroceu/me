@@ -40,7 +40,7 @@ background-size: 100% 1.2em;
 	color: #999;
 	background: #fff;
 	  border: 1px dashed #525276;
-	  width: 30em;
+	  width: 35%;
 	  float: right;
 	  box-shadow: 0.2em 0.2em 0 #ccc;
 }
@@ -77,9 +77,9 @@ nav a:hover, nav a:focus{
 }
 
 #list{
-	  margin-left: 15em;
+	  margin-left: 15%;
 	  text-align: center;
-	  width: 35em;
+	  width: 45%;
 }
 
 .row {
