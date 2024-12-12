@@ -111,7 +111,33 @@ nav a:hover, nav a:focus{
   
 }
 
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
 
+.container {
+  margin-top: 5%;
+  width: auto;
+}
+
+#blurb {
+  width: 90%;
+  float: none;
+  margin: 0 auto;
+}
+
+#list {
+  margin-left: 0;
+  width: auto;
+}
+
+.kin {
+  flex: 50%;
+  max-width: 50%;
+}
+
+}
 
 </style>
 </head>
