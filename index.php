@@ -197,6 +197,24 @@ nav a:hover, nav a:focus{
  			<img src="acnhpersonality.png" width="100%" alt="What is your Animal Crossing personality? Lazy at 44%. Hence being called lazy, these villagers like to relax and sleep. They find little to no interest in sports, which is why jock villagers will not like their lazy lifestyle. They also love food. They are very kind and caring, despite being lazy. Examples of lazy villagers are Rodeo, Punchy, Jacob, and Egbert. Other results are Normal at 40%, and Uchi, Smug, Jock, Snooty, and Cranky all at 22%. Peppy is at 0%.">
  		</a>
  	</div>
+ 	<div class="result">
+ 		<a href="https://www.theotaku.com/quizzes/result/3240">
+ 			<img src="sliceoflife.jpg" width="100%" alt="Slice of Life [Anime]: Realistic, believer, ambition. You are the slice of life genre. You've learned enough from life to understand that sometimes, you've just got to be realistic. You don't often dream, but you do have ambition and a goal. You treasure life as it comes. YOu may be sometimes be a bit introverted, but deep inside you're a fun loving person.">
+ 		</a>
+ 	</div>
+
+ 	<div class="result">
+ 		<a href="https://springhole.net/quizzes/fairyquiz/">
+ 			<img src="machinefairy.gif" width="100%" alt="I am a Machine Fairy. I lurk everywhere from power plants to copy machines. If a machine that was broken starts working again, that was probably me!">
+ 		</a>
+ 	</div>
+
+ 	<div class="result">
+ 		<a href="https://www.springhole.net/quizzes/fantasycreature/">
+ 			<img src="werewolf.gif" width="100%" alt="I'm a werewolf! I hunt in the forests and howl at the moon. Fun stuff; you should try it.">
+ 		</a>
+ 	</div>
+
 	
   </div>
   
@@ -233,6 +251,12 @@ nav a:hover, nav a:focus{
 			<img src="chibiseme.png" width="100%" alt="You are a Chibi Seme. You are the seme in disguise. Able to fit in and get along with uke and seme alike, you are able to get close to the uke on their level before exerting your dominance. This makes you at times manipulative and able to fool others about your true seme nature. Because of your harmless appearance, it takes the flamboyant Flaming Uke to match wits and really bring out your aggressive side to expose you for the seme that you are.">
 		</a>
 	</div>
+
+	<div class="result">
+ 		<a href="https://www.gotoquiz.com/results/what_were_you_in_a_past_life_6">
+ 			<img src="pirate.png" width="100%" alt="What were you in a past life? Your result: Pirate 88%. Piracy normally is an act of robbery at sea. Piracy can also include crimes committed on land and in the air. It usually doesn't include acts of violence or crimes against people traveling on the same vessel as the pirate. The word pirate has been used throughout history to refer to raids across country borders by non-government agents. You may have been a pirate by land, air, or sea.">
+ 		</a>
+ 	</div>
 		
 		
   </div> 
@@ -272,6 +296,12 @@ nav a:hover, nav a:focus{
 			<img src="cranegf.png" width="100%" alt="Crane Girlfriend">
 		</a>
 	</div>
+
+	<div class="result">
+ 		<a href="https://www.gotoquiz.com/results/which_type_of_landscape_are_you">
+ 			<img src="beach.png" width="100%" alt="You are a tropical beach. You soak up the sun. You invite others in. You may have the occasional storm, but you are mostly bright and ready for fun. Your sunsets are majestic. Your rolling waves are calming. People flock to you and bask in your warmth.">
+ 		</a>
+ 	</div>
 		
   </div> 
  
