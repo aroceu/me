@@ -198,6 +198,7 @@ nav a:hover, nav a:focus{
  		</a>
  	</div>
  	<div class="result">
+ 		<div class="tape left"></div>
  		<a href="https://www.theotaku.com/quizzes/result/3240">
  			<img src="sliceoflife.jpg" width="100%" alt="Slice of Life [Anime]: Realistic, believer, ambition. You are the slice of life genre. You've learned enough from life to understand that sometimes, you've just got to be realistic. You don't often dream, but you do have ambition and a goal. You treasure life as it comes. YOu may be sometimes be a bit introverted, but deep inside you're a fun loving person.">
  		</a>
@@ -206,12 +207,6 @@ nav a:hover, nav a:focus{
  	<div class="result">
  		<a href="https://springhole.net/quizzes/fairyquiz/">
  			<img src="machinefairy.gif" width="100%" alt="I am a Machine Fairy. I lurk everywhere from power plants to copy machines. If a machine that was broken starts working again, that was probably me!">
- 		</a>
- 	</div>
-
- 	<div class="result">
- 		<a href="https://www.springhole.net/quizzes/fantasycreature/">
- 			<img src="werewolf.gif" width="100%" alt="I'm a werewolf! I hunt in the forests and howl at the moon. Fun stuff; you should try it.">
  		</a>
  	</div>
 
@@ -253,6 +248,7 @@ nav a:hover, nav a:focus{
 	</div>
 
 	<div class="result">
+		<div class="tape right"></div>
  		<a href="https://www.gotoquiz.com/results/what_were_you_in_a_past_life_6">
  			<img src="pirate.png" width="100%" alt="What were you in a past life? Your result: Pirate 88%. Piracy normally is an act of robbery at sea. Piracy can also include crimes committed on land and in the air. It usually doesn't include acts of violence or crimes against people traveling on the same vessel as the pirate. The word pirate has been used throughout history to refer to raids across country borders by non-government agents. You may have been a pirate by land, air, or sea.">
  		</a>
@@ -300,6 +296,14 @@ nav a:hover, nav a:focus{
 	<div class="result">
  		<a href="https://www.gotoquiz.com/results/which_type_of_landscape_are_you">
  			<img src="beach.png" width="100%" alt="You are a tropical beach. You soak up the sun. You invite others in. You may have the occasional storm, but you are mostly bright and ready for fun. Your sunsets are majestic. Your rolling waves are calming. People flock to you and bask in your warmth.">
+ 		</a>
+ 	</div>
+
+
+ 	<div class="result">
+ 		<div class="tape right"></div>
+ 		<a href="https://www.springhole.net/quizzes/fantasycreature/">
+ 			<img src="werewolf.gif" width="100%" alt="I'm a werewolf! I hunt in the forests and howl at the moon. Fun stuff; you should try it.">
  		</a>
  	</div>
 		
