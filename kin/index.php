@@ -31,7 +31,7 @@ background-size: 100% 1.2em;
 }
 
 .container{
-	margin-top: 5em;
+	margin: 5em 0;
 	width: 90%;
 }
 
