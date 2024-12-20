@@ -43,6 +43,7 @@ background-size: 100% 1.2em;
 	  width: 35%;
 	  float: right;
 	  box-shadow: 0.2em 0.2em 0 #ccc;
+	  margin-bottom: 5em;
 }
 
 h1{
