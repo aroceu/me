@@ -169,10 +169,6 @@ html {
   	<div class="kin">
   		<img src="ocean.png">
   	</div>
-
-  	<div class="kin">
-  		<img src="mark.jpg">
-  	</div>
 	
 		<div class="kin">
   		<img src="spiderman.png">
