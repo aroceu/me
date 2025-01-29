@@ -150,9 +150,7 @@ html {
 
 <h1>Kinnies</h1>
 
-<p>I don't identify strongly with ~kin stuff, particularly for fictional characters; but that doesn't stop me from <i>feeling</i> like I see myself in these characters. Even for older fandoms and media that I don't care much for anymore, sometimes I see a picture of a character and still get that <i>it's me</i> feeling. More often than not though they're vehicles to help me better understand myself.</p>
-
-<p>Characters I'm most drawn to on a relational level are usually some combination of: blue themed, intellectual, obsessive with being inventive, sensitive, traumatized or depressed, lazy out of inconvenience, eldest siblings, loners, waterborne, and sarcastic/witty.</p>
+<p>I don't identify strongly with ~kin stuff, particularly for fictional characters; but that doesn't stop me from <i>feeling</i> like I see myself in these characters. More often than not, they're vehicles to help me better understand myself. Characters I'm most drawn to on a relational level are usually some combination of: blue themed, intellectual, obsessive with being inventive, sensitive, traumatized or depressed, lazy out of inconvenience, eldest siblings, loners, waterborne, and sarcastic/witty.</p>
 
 <p>In order of when I felt kinship, except for the first because I've always felt connected to the ocean.</p>
 
@@ -204,10 +202,6 @@ html {
 
    <div class="kin">
   		<img src="violet.jpg">
-  	</div>
-
-  	<div class="kin">
-  		<img src="raven.png">
   	</div>
 
   	<div class="kin">
