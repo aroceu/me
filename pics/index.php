@@ -219,7 +219,7 @@ html {
 
    <div class="picrew">
    	<div class="tape left"></div>
-  		<img src="https://aroceu.com/me/pics/picrew-no-link.png">
+  		<img src="picrew-no-link.png">
   	</div>
 
   	<div class="picrew">
@@ -236,7 +236,7 @@ html {
   	</div>
 
   	<div class="picrew">
-  		<a href="https://picrew.me/ja/image_maker/572653"><img src="picrew6.png"></a>
+  		<a href="https://picrew.me/ja/image_maker/572653"><img src="picrew6.PNG"></a>
   	</div>
 
   	<div class="picrew">
