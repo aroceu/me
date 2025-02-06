@@ -198,7 +198,7 @@ html {
 <p>In lieu of posting selfies (which I don't do much anymore), here are some picrews that I've done and like and represent my vibe, I think. I love dollmakers and customization, even if I tend to pick the same options every time. You can click on each picture to visit the respective dollmaker.</p>
 
 <nav>
-	<a href="https://aroceu.com">home</a> <a href="https://aroceu.com/me/">personality</a> <a href="https://aroceu.com/kin/">kin</a>
+	<a href="https://aroceu.com">home</a> <a href="https://aroceu.com/me/">personality</a> <a href="https://aroceu.com/kin/">kins</a>
 </nav>
 
 </div>
@@ -219,7 +219,7 @@ html {
 
    <div class="picrew">
    	<div class="tape left"></div>
-  		<img src="picrew-no-link.png">
+  		<img src="https://aroceu.com/me/pics/picrew-no-link.png">
   	</div>
 
   	<div class="picrew">
