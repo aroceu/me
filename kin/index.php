@@ -153,7 +153,7 @@ html {
 <p>I don't identify strongly with ~kin stuff, particularly for fictional characters; but that doesn't stop me from <i>feeling</i> like I see myself in these characters. More often than not, they're vehicles to help me better understand myself. Characters I'm most drawn to on a relational level are usually some combination of: blue themed, intellectual, obsessive with being inventive, sensitive, traumatized or depressed, lazy out of inconvenience, eldest siblings, loners, waterborne, and sarcastic/witty.</p>
 
 <nav>
-	<a href="https://aroceu.com">home</a> <a href="https://aroceu.com/me/">personality</a>
+	<a href="https://aroceu.com">home</a> <a href="https://aroceu.com/me/">personality</a> <a href="https://aroceu.com/me/pics">pics</a>
 </nav>
 
 </div>

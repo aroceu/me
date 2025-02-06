@@ -171,6 +171,7 @@ nav a:hover, nav a:focus{
 <nav>
 	<a href="https://aroceu.com">home</a>
 	<a href="https://aroceu.com/me/kin">kins</a>
+	<a href="https://aroceu.com/me/pics">pics</a>
 </nav>
 
 </div>
