@@ -276,6 +276,25 @@ html {
   	<div class="picrew">
   		<a href="https://picrew.me/en/image_maker/947708"><img src="picrew16.png"></a>
   	</div>
+
+    <!-- non human picrews -->
+
+    <div class="picrew">
+      <div class="tape left"></div>
+      <a href="https://picrew.me/ja/image_maker/318685"><img src="felt.png"></a>
+    </div>
+
+    <div class="picrew">
+      <a href="https://www.amongusavatarcreator.com/"><img src="amongus.png"></a>
+    </div>
+
+    <div class="picrew">
+      <img src="cat-no-link.png">
+    </div>
+
+    <div class="picrew">
+      <a href="https://picrew.me/ja/image_maker/498274"><img src="mushroom.png"></a>
+    </div>
 		
   </div> 
 
