@@ -211,6 +211,12 @@ nav a:hover, nav a:focus{
  		</a>
  	</div>
 
+ 	<div class="result">
+ 		<a href="http://www.allaboutfrogs.org/funstuff/frogtest.php3">
+ 			<img src="frog.jpg" width="100%" alt="I'm a red eyed tree frog!">
+ 		</a>
+ 	</div>
+
 	
   </div>
   
