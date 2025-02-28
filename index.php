@@ -81,14 +81,12 @@
 
 	b{
 		font: normal 135% 'Rochester', cursive;
-		font-weight: bold;
 	}
 
 	h1{
 		font: normal 220% 'Rochester', cursive;
 		margin: 0;
 		text-align: center;
-		font-weight: bold;
 	}
 
 	a:hover h1, a:active h1 {
