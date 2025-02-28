@@ -6,7 +6,7 @@
     
     <head>
         
-        <title>aroceu (pics)</title>
+        <title>aroceu (me)</title>
         
         <meta name="robots" content="noai, noimageai">
 
