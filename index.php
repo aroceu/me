@@ -48,7 +48,7 @@
 		border-left: 1px solid #5C98B2;
 		border-right: 1px solid #5C98B2;
 		border-bottom: 15px solid #5C98B2;
-		width: 27em;
+		width: 30em;
 		margin: 6vh auto;
 		background-color: #fff;
 		background-image:
