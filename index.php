@@ -56,7 +56,7 @@
 		linear-gradient(#eee .1em, transparent .1em);
 		background-size: 100% 1.2em;
 		padding: 2em;
-		box-shadow: 0 -15px 0 #F6B1B0, 0 15px 0 #F6B1B0;
+		box-shadow: 0 -15px 0 #F6B1B0;
 		scrollbar-width: thin;
 		scrollbar-color: #5C98B2 transparent;
 	}
