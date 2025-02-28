@@ -27,7 +27,6 @@ linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent
 linear-gradient(#eee .1em, transparent .1em);
 background-size: 100% 1.2em;
   color: #555;
-              text-shadow: 0.02em 0.02em 0 #bdbdbd;
 
 }
 
@@ -54,7 +53,7 @@ h1{
 	padding: 10px 10px 0 0;
 	text-align: right;
 	color: #5C98B2;
-            text-shadow: 0.02em 0.02em 0 #bdbdbd;
+   text-shadow: 0.02em 0.02em 0 #bdbdbd;
 }
 
 i{
