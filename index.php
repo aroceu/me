@@ -6,7 +6,7 @@
 <title>aroceu (me)</title>
 <meta name="robots" content="noai, noimageai">
 <meta name="viewport" content="initial-scale=1.0">
-<meta name="description" content="one of many perverted hobbyists on the internet"/>
+<meta name="description" content="just another perverted hobbyist on the internet"/>
 <link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/fav.ico" />
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Rochester&display=swap" rel="stylesheet">
 <script type="text/javascript">
@@ -128,7 +128,7 @@
 
 	li a:link, li a:visited, li a{
 		cursor: pointer;
-		color: #5C98B2;
+		color: #ccc;
 	}
 
 	li a:hover{
@@ -174,6 +174,7 @@
 	bullet{
 		padding-right: 1em;
 		color: #5C98B2;
+		text-shadow: 0.02em 0.02em 0 #bdbdbd;
 	}
 
 @media only screen and (max-width: 430px) and (min-width: 0px) {
