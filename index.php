@@ -207,7 +207,7 @@
 
 <ul id="navigation">
 	<li><a href="/">Home</a></li>
-	<li><a href="labels/">Answers</a></li>
+	<li><a href="answers/">Answers</a></li>
 	<li><a href="pics/">Pics</a></li>
 	<li><a href="kins/">Kins</a></li>
 	<li><a href="/log">Log</a></li>
