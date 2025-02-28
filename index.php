@@ -126,11 +126,11 @@
 
 	li a:link, li a:visited, li a{
 		cursor: pointer;
-		color: #ccc;
+		color: #5C98B2;
 	}
 
 	li a:hover{
-		color: #F6B1B0;
+		color: #ccc;
 	}
 
 	em{
