@@ -165,7 +165,7 @@ nav a:hover, nav a:focus{
 
   		<div class="tape left"></div>
 
-<h1>Me, I guess</h1>
+<h1>personality answers</h1>
 
 <p>I'm a notorious personality quiz taker, but my results are usually redundant since I tend to be consistent. This is a collage of my more interesting results that I think apply to me pretty well still. If you're interested in taking the quiz yourself, click on the result. </p>
 
