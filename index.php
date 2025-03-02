@@ -248,7 +248,7 @@
 	</li>
 	<li><bullet><a onclick="javascript:ShowHide('favoritestuff')">&rdsh;</a></bullet> <b>Favorites:</b> storytelling, the communication between dichotomies in the form of tension, creative intent drawn from personal authenticity, and open-minded acceptance
 		<ul id="favoritestuff">
-			<li>In other words: competition, romance, art, the love of the craft, the love of the game, the love of the process, self-fulfillment, the agency of others, building communities, and grace through the passage of time. And storytelling.</li>
+			<li>In other words: competition, romance, art, the love of the craft, the love of the game, the love of the process, self-fulfillment, the agency of others, building communities, and grace through the passage of time. Also colors, numbers, words, and music. And storytelling.</li>
 		</ul>
 	</li>
 	<li><bullet>&rarrtl;</bullet> <b>Notes (optional)</b> <a onclick="javascript:ShowHide('otherstuff')">&#8628;</a>
