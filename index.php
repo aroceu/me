@@ -6,7 +6,7 @@
 <title>aroceu (me)</title>
 <meta name="robots" content="noai, noimageai">
 <meta name="viewport" content="initial-scale=1.0">
-<meta name="description" content="just another perverted hobbyist on the internet"/>
+<meta name="description" content="hello i am an obsessive writer, website owner, and fujoshi, and this is my house."/>
 <link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/fav.ico" />
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Rochester&display=swap" rel="stylesheet">
 <script type="text/javascript">
