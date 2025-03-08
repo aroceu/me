@@ -10,7 +10,7 @@
 
         <meta name="viewport" content="initial-scale=1.0">
 <meta name="description" content="just another perverted hobbyist on the internet"/>
-    <link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/fav.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../assets/fav.ico" />
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Cookie&display=swap" rel="stylesheet">
 <style>
 * {
@@ -62,6 +62,8 @@ i{
 
 nav{
 	text-align: center;
+	padding: 1em;
+	display: block;
 }
 
 nav a:link, nav a:visited{
@@ -152,8 +154,12 @@ html {
 
 <p>I don't identify strongly with ~kin stuff, but I still find it fun to relate to fictional characters (and anything else, if I do.) More often than not, they're vehicles to help me better understand myself. Characters I'm most drawn to on a relational level are usually some combination of: blue themed, intellectual, obsessive with being inventive, sensitive, traumatized or depressed, lazy out of inconvenience, eldest siblings, loners, waterborne, and sarcastic/witty.</p>
 
+
 <nav>
-	<a href="https://aroceu.com">home</a> <a href="https://aroceu.com/me">me</a> <a href="https://aroceu.com/me/answers">answers</a> <a href="https://aroceu.com/me/pics">pics</a>
+	<a href="../../">home</a>
+	<a href="../../me">me</a>
+	<a href="../answers">answers</a>
+	<a href="../pics">pics</a>
 </nav>
 
 </div>

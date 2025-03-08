@@ -209,7 +209,7 @@
 	<li><a href="answers/">Answers</a></li>
 	<li><a href="pics/">Pics</a></li>
 	<li><a href="kin/">Kins</a></li>
-	<li><a href="/log">Log</a></li>
+	<li><a href="../log">Log</a></li>
 </ul>
 
 <div id="container">

@@ -10,7 +10,7 @@
 
         <meta name="viewport" content="initial-scale=1.0">
 <meta name="description" content="just another perverted hobbyist on the internet"/>
-    <link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/fav.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="../../assets/fav.ico" />
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Cookie&display=swap" rel="stylesheet">
 <style>
 * {
@@ -170,10 +170,10 @@ nav a:hover, nav a:focus{
 <p>I'm a notorious personality quiz taker, but my results are usually redundant since I tend to be consistent. This is a collage of my more interesting results that I think apply to me pretty well still. If you're interested in taking the quiz yourself, click on the result. </p>
 
 <nav>
-	<a href="https://aroceu.com">home</a>
-	<a href="https://aroceu.com/me">me</a>
-		<a href="https://aroceu.com/me/pics">pics</a>
-	<a href="https://aroceu.com/me/kin">kins</a>
+	<a href="../../">home</a>
+	<a href="../../me">me</a>
+		<a href="../pics">pics</a>
+	<a href="../kin">kins</a>
 </nav>
 
 </div>

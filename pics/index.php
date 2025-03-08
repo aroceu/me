@@ -12,7 +12,7 @@
 
         <meta name="viewport" content="initial-scale=1.0">
 <meta name="description" content="just another perverted hobbyist on the internet"/>
-    <link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/fav.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../assets/fav.ico" />
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..700&family=Cookie&display=swap" rel="stylesheet">
 <style>
 * {
@@ -200,7 +200,10 @@ html {
 <p>In lieu of posting selfies (which I don't do much anymore), here are some picrews that I've done and like and represent my vibe, I think. I love dollmakers and customization, even if I tend to pick the same options every time. You can click on each picture to visit the respective dollmaker.</p>
 
 <nav>
-	<a href="https://aroceu.com">home</a>  <a href="https://aroceu.com/me">me</a> <a href="https://aroceu.com/me/answers">answers</a> <a href="https://aroceu.com/me/kin/">kins</a>
+	<a href="../../">home</a>
+	<a href="../../me">me</a>
+	<a href="../answers">answers</a>
+	<a href="../kin">kins</a>
 </nav>
 
 </div>
