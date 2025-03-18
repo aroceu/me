@@ -174,6 +174,7 @@ nav a:hover, nav a:focus{
 	<a href="../../me">me</a>
 		<a href="../pics">pics</a>
 	<a href="../kin">kins</a>
+	<a href="../../log">log</a>
 </nav>
 
 </div>

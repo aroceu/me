@@ -204,6 +204,7 @@ html {
 	<a href="../../me">me</a>
 	<a href="../answers">answers</a>
 	<a href="../kin">kins</a>
+	<a href="../../log">log</a>
 </nav>
 
 </div>

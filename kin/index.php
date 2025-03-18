@@ -160,6 +160,7 @@ html {
 	<a href="../../me">me</a>
 	<a href="../answers">answers</a>
 	<a href="../pics">pics</a>
+	<a href="../../log">log</a>
 </nav>
 
 </div>
