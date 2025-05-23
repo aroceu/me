@@ -219,7 +219,7 @@
 <div id="container">
 
 <a onclick="javascript:ShowHide('everything')"><h1>it's me aroceu</h1></a>
-<h2>(i like being consistent sometimes)</h2>
+<h2>(an eternal child of divorce)</h2>
 
 <ul id="everything">
 	<li><bullet><a onclick="javascript:ShowHide('namestuff')">&rdsh;</a></bullet> <b>Name:</b> Arrow
