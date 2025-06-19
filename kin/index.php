@@ -176,6 +176,10 @@ html {
   	<div class="kin">
   		<img src="ocean.png">
   	</div>
+
+	<div class="kin">
+		<img src="blackamericanbobtail.png">
+	</div>
 	
 		<div class="kin">
   		<img src="spiderman.png">
@@ -212,6 +216,10 @@ html {
    <div class="kin">
   		<img src="violet.jpg">
   	</div>
+
+	<div class="kin">
+		<img src="rangernpc.png" class="noticon">
+	</div>
 
   	<div class="kin">
   		<img src="violet.png">
