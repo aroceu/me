@@ -308,7 +308,7 @@ width: 100% !important;
                 <li><b>Skillset Role:</b> <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/GadgeteerGenius">Gadgeteer</a>, <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheEngineer">Engineer</a></li>
                 <li><b>Disposition:</b> 
                 <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/MasterArcher">Master Archer</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/LongRangeFighter">Long Range Fighter</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/GlassCannon">Glass Cannon</a>
-                <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBigSis">Cool Big Sister</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BigBrotherInstinct">Big Brother Instinct</a></li>
+                <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBigSis">Cool Big Sister</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/LittleMissSnarker">LittleMissSnarker</a></li>
                 <li><b>Character:</b> 
                 <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheStoryteller">Storyteller</a>, <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/SpiritedYoungLady">Spirited Young Lady</a>
             <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnicianVersusPerformer">Technician vs. Performer</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/RedOniBlueOni">Red Oni Blue Oni</a></li>
