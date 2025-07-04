@@ -32,7 +32,6 @@ linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent
 linear-gradient(#eee .1em, transparent .1em);
 background-size: 100% 1.2em;
   color: #555;
-              text-shadow: 0.02em 0.02em 0 #bdbdbd;
 
 }
 
@@ -115,6 +114,7 @@ h2:hover, h2:focus{
     margin: 0.5em;
     border-radius: 150px;
     box-shadow: 0.1em 0.1em 0 #ccc;
+    image-rendering: crisp-edges;
 }
 
 .row{
