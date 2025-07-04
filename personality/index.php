@@ -323,10 +323,10 @@ width: 100% !important;
             <img src="violet.jpg" alt="Violet Baudelaire" />
             <img src="kunimi.jpg" alt="Kunimi" />
             <img src="cress.png" alt="Cress" />
+            <img src="haru.png" alt="Haru" />
             <img src="manami.jpg" alt="Manami" />
             <img src="rocket.png" alt="Rocket" />
             <img src="spiderman.png" alt="Spiderman" />
-            <img src="angelica.png" alt="Angelica" />
 
 
             </div>
