@@ -1,5 +1,3 @@
-<!-- i will make this responsive one day...-->
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -21,6 +19,8 @@
 <style>
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -46,9 +46,9 @@ padding: 1em;
   color: #999;
   background: #fff;
   border: 1px dashed #525276;
-  width: 45%;
+  width: 20%;
   box-shadow: 0.2em 0.2em 0 #ccc;
-  margin: 1em auto;
+  margin: 0.5em auto;
 }
 
 h1{
@@ -56,7 +56,7 @@ h1{
 	font: normal 350% 'Cookie';
 	margin: 0;
 	padding: 10px 10px 0 0;
-	text-align: right;
+	text-align: center;
 	color: #5C98B2;
             text-shadow: 0.02em 0.02em 0 #bdbdbd;
 }
@@ -76,6 +76,8 @@ nav a:link, nav a:visited{
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	text-decoration: none;
+	margin: 0.5em 0;
+	display: inline-block;
 }
 
 nav a:hover, nav a:focus{
@@ -152,7 +154,7 @@ top: 20px;
 	transform: rotate(0);
 }
 
-@media only screen and (max-width: 800px) and (min-width: 0px) {
+@media only screen and (max-width: 810px) and (min-width: 0px) {
 html {
 -webkit-text-size-adjust: 100%;
 }
@@ -162,22 +164,41 @@ html {
   width: auto;
 }
 
-#blurb {
-  width: 90%;
-  float: none;
-  margin: 0 auto;
-}
-
-#list {
-  margin-left: 0;
-  width: auto;
-}
-
-.picrew {
+.picrew{
+  margin: 1em auto;
   flex: 50%;
   max-width: 50%;
 }
 
+#blurb{
+	max-width: 50%;
+	width: 35%;
+	  margin: 1em auto 1em 10%;
+}
+
+}
+
+@media (max-width: 400px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+.container {
+  margin-top: 5%;
+  width: auto;
+}
+
+.picrew{
+  margin: 1em auto;
+  flex: 100%;
+  max-width: 100%;
+}
+
+#blurb{
+	max-width: 80%;
+	width: 80%;
+	  margin: 1em auto 1em 10%;
+}
 }
 
 </style>
@@ -192,29 +213,25 @@ html {
 
   <div class="row">
 
-		<div class="picrew" style="margin-top: 2em;">
-				<div class="tape left"></div>
-  		<a href="https://picrew.me/en/image_maker/1108773"><img src="picrew1.png"></a>
-  	</div>
-
-  	<div id="blurb">
+    	<div id="blurb">
 
 <h1>Picrews</h1>
-
-<p>In lieu of posting selfies (which I don't do much anymore), here are some picrews that I've done and like and represent my vibe, I think. I love dollmakers and customization, even if I tend to pick the same options every time. You can click on each picture to visit the respective dollmaker.</p>
 
 <nav>
 	<a href="../../">home</a>
 	<a href="../../me">me</a>
-	<a href="../answers">answers</a>
-	<a href="../kin">kins</a>
+	<a href="../../me/personality">personality</a>
 	<a href="../../log">log</a>
 </nav>
 
 </div>
 
-   <div class="picrew" style="margin-top: 2em;">
-   	   			<div class="tape right"></div>
+		<div class="picrew">
+				<div class="tape left"></div>
+  		<a href="https://picrew.me/en/image_maker/1108773"><img src="picrew1.png"></a>
+  	</div>
+
+   <div class="picrew">
   		<a href="https://picrew.me/en/image_maker/1944831/"><img src="picrew8.png"></a>
   	</div>
 
@@ -228,11 +245,12 @@ html {
   	</div>
 
    <div class="picrew">
-   	<div class="tape left"></div>
   		<img src="picrew-no-link.png">
   	</div>
 
   	<div class="picrew">
+		   	<div class="tape right"></div>
+
   		<a href="https://picrew.me/en/image_maker/1227062"><img src="picrew3.png"></a>
   	</div>
 
@@ -267,6 +285,7 @@ html {
   	</div>
 
   	<div class="picrew">
+		   	   	<div class="tape left"></div>
   		<a href="https://picrew.me/ja/image_maker/395214"><img src="picrew12.png"></a>
   	</div>
 
@@ -286,6 +305,11 @@ html {
   	<div class="picrew">
   		<a href="https://picrew.me/en/image_maker/947708"><img src="picrew16.png"></a>
   	</div>
+
+	<div class="picrew">
+		<div class="tape left"></div>
+		<a href="https://picrew.me/en/image_maker/2665052"><img src="picrew17.png"></a>
+	</div>
 
     <!-- non human picrews -->
 

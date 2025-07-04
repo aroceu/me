@@ -210,15 +210,14 @@
 
 <ul id="navigation">
 	<li><a href="/">Home</a></li>
-	<li><a href="answers/">Answers</a></li>
+	<li><a href="personality/">Personality</a></li>
 	<li><a href="pics/">Pics</a></li>
-	<li><a href="kin/">Kins</a></li>
 	<li><a href="../log">Log</a></li>
 </ul>
 
 <div id="container">
 
-<a onclick="javascript:ShowHide('everything')"><h1>it's me aroceu</h1></a>
+<a onclick="javascript:ShowHide('everything')"><h1>whois: aroceu</h1></a>
 <h2>(an eternal child of divorce)</h2>
 
 <ul id="everything">
