@@ -282,9 +282,11 @@ width: 100% !important;
                 <li><b>Temperament:</b> Sanguine</li>
                 <li><b>Big Five:</b> RLUEI</li>
                 <li><b>Socionics:</b> LII-INTj-Ne</li>
+                <li><b>R-Drive:</b> Integrity/Intellect/Vitality</li>
                 <li><b>D&D:</b> True Neutral Elf Wizard</li>
                 <li><b>Homestuck:</b> Gemga, Bard of Space</li>
                 <li><b>Zodiac:</b> &#9802; &#9804; &#9804; &#128021;</li>
+                <li><b>Primal Astrology:</b> <a href="https://www.primalastrology.com/deer.html">Deer</a></li>
                 <li><b>Pok&eacute;mon Type:</b> Water/Fairy</li>
                 <li><b>Animal Crossing NPC:</b> Normal Cat</li>
                 <li><b>Archetype:</b> Anti-Hero / Doppelganger</li>
