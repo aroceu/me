@@ -261,7 +261,7 @@ width: 100% !important;
             
             <h1>my personality (kinda)</h1>
             
-            <p>I love personality categorizations because they make my organizational brain happy, and give me better ways to understand myself. I think in terms of MBTI the most, after a strong hyperfixation in 2015. But I love finding new ways to slap new labels onto myself and add them to the larger illustration of who I am. This is a result of that introspective reflection, mixed with things I attribute to myself just for fun.</p>
+            <p>I love personality categorizations because they make my organizational brain happy, and give me better ways to understand myself. I think in terms of socionics the most, after a strong hyperfixation in 2015. But I love finding new ways to slap new labels onto myself and add them to the larger illustration of who I am. This is a result of that introspective reflection, mixed with things I attribute to myself just for fun.</p>
 
             <nav>
 	<a href="../../">home</a>

@@ -260,6 +260,7 @@
 			<li>If you're unsure about anything, just call me Arrow/aroceu and use whatever words you'd like and don't worry about it.</li>
 			<li>Any preferences stated here blur much more for people I trust. So if we're friends, don't worry about it (even more.)</li>
 			<li>I don't take myself half as seriously as this page may make me seem, I take pride in my inconsistency because it's who I am as a person, and I like using words wrong.</li>
+			<li>(Yes, my IRL parents are divorced too.)</li>
 		</ul>
 	</li>
 </ul>
