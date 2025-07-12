@@ -306,11 +306,11 @@ width: 100% !important;
             <div class="trope-list">
             
             <ul>
-                <li><b>Temperament:</b> <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/SugarAndIcePersonality">Sugar & Ice</a>, <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Cuckoosnarker">Cuckoo</a><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker">snarker</a></li>
+                <li><b>Temperament:</b> <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/SugarAndIcePersonality">Sugar & Ice</a></li>
                 <li><b>Skillset Role:</b> <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/GadgeteerGenius">Gadgeteer</a>, <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheEngineer">Engineer</a></li>
                 <li><b>Disposition:</b> 
-                <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/MasterArcher">Master Archer</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/LongRangeFighter">Long Range Fighter</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/GlassCannon">Glass Cannon</a>
-                <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBigSis">Cool Big Sister</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/LittleMissSnarker">Little Miss Snarker</a></li>
+                <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/MasterArcher">Master Archer</a> <small>(<a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/LongRangeFighter">Long Range Fighter</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/GlassCannon">Glass Cannon</a>)</small>
+                <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBigSis">Cool Big Sister</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/MellowFellow">Mellow Fellow</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/LittleMissSnarker">Little Miss Snarker</a></li>
                 <li><b>Character:</b> 
                 <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheStoryteller">Storyteller</a>, <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/SpiritedYoungLady">Spirited Young Lady</a>
             <br /><a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnicianVersusPerformer">Technician vs. Performer</a> / <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/RedOniBlueOni">Red Oni Blue Oni</a></li>
