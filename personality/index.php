@@ -236,7 +236,7 @@ width: 100% !important;
     margin: 0.25em;
     }
     h1 {
-        font-size: 250%;
+        font-size: 3.5em;
         padding: 0.15em;
     }
     .result img {
