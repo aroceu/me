@@ -261,7 +261,13 @@ width: 100% !important;
             
             <h1>my personality (kinda)</h1>
             
-            <p>I love personality categorizations because they make my organizational brain happy, and give me better ways to understand myself. I think in terms of socionics the most, after a strong hyperfixation in 2015. But I love finding new ways to slap new labels onto myself and add them to the larger illustration of who I am. This is a result of that introspective reflection, mixed with things I attribute to myself just for fun.</p>
+            <p>I love personality categorizations because they make my organizational brain happy, 
+                and give me better ways to understand myself. I think in terms of socionics the most, 
+                after a strong hyperfixation in 2015. Despite that, I love finding new ways to slap new labels 
+                onto myself and add them to the larger illustration of who I am.</p>
+            <p>This is a result of that introspective reflection, mixed with things I attribute to myself just for fun. 
+                Doubles/triples/etc. welcome and all that. &hearts;
+            </p>
 
             <nav>
 	<a href="../../">home</a>
@@ -327,7 +333,7 @@ width: 100% !important;
             <img src="cress.png" alt="Cress" />
             <img src="haru.png" alt="Haru" />
             <img src="manami.jpg" alt="Manami" />
-            <img src="rocket.png" alt="Rocket" />
+            <img src="alex.jpg" alt="Alex Russo" />
             <img src="spiderman.png" alt="Spiderman" />
 
 
