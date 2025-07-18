@@ -333,7 +333,7 @@ width: 100% !important;
             <img src="cress.png" alt="Cress" />
             <img src="haru.png" alt="Haru" />
             <img src="manami.jpg" alt="Manami" />
-            <img src="alex.jpg" alt="Alex Russo" />
+            <img src="alex.jpg" alt="Alex Russo" title="the funny story about this one is that I could not stand her ass for so long and then at some point I was like Oh it was because she is Me lol (in a different way though)"/>
             <img src="spiderman.png" alt="Spiderman" />
 
 
